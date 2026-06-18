@@ -1,65 +1,70 @@
 <div align="center">
 
-# 𝕯é𝖇𝖔𝖗𝖆 ☾
+# Débora Silva
 
-*"In the midst of winter, I found there was, within me, an invincible summer."*
+### Estudante de Engenharia da Computação
 
-🦇
+Construindo conhecimento, desenvolvendo soluções e evoluindo constantemente.
 
 </div>
 
----
-
-## ☾ About
-
-```txt
-Learning.
-Building.
-Exploring.
-```
 
 ---
+## Sobre Mim
 
-## ⚰️ Technologies
+Sou estudante de Engenharia da Computação, ambiciosa e movida pela busca contínua por aprendizado e crescimento.
 
-<p>
-  Python • Java • SQL • Git • GitHub
+Tenho interesse em desenvolvimento de software, algoritmos, resolução de problemas e tecnologia. Atualmente, dedico meu tempo ao aprimoramento das minhas habilidades em programação por meio de estudos e projetos práticos.
+
+---
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,c,python,git,github,vscode" />
 </p>
 
 ---
 
-## 🕯️ Currently
+## Áreas de Interesse
 
 ```txt
-Studying
-Coding
-Creating
+• Desenvolvimento de Software
+• Algoritmos e Estruturas de Dados
+• Engenharia de Software
+• Banco de Dados
+• Resolução de Problemas
 ```
+
 
 ---
 
-## ☽ GitHub Stats
+## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debiis-rs&show_icons=true&theme=dark)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debiis-rs
-&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debiis-rs&show_icons=true&theme=rose_pine)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debiis-rs&layout=compact&theme=rose_pine)
+</div>
 
 ---
 
-## 🦇
+## Objetivos
 
-```python
-while True:
-    learn()
-    create()
-    evolve()
-```
+- Aprimorar minhas habilidades técnicas
+- Construir projetos relevantes
+- Evoluir como desenvolvedora
+- Transformar conhecimento em soluções reais
 
 ---
 
 <div align="center">
 
-☾ ⋆｡𖦹°‧🦇‧°𖦹｡⋆ ☽
+"Grandes conquistas começam com pequenos passos diários."
+
+</div>
+"Learning today, building tomorrow."
 
 </div>
