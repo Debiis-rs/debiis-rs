@@ -40,6 +40,17 @@ Tenho interesse em desenvolvimento de software, algoritmos, resolução de probl
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx..." width="250">
 </p>
+## 🎮 Meu Jardim de Commits
+
+Atualmente transformando meus commits em pixel arts fofinhas 💖
+
+🔥💧 Fireboy & Watergirl
+
+🔥      💧
+██      ██
+███    ███
+████  ████
+██████████
 
 ## 📊 Estatísticas
 
