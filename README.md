@@ -3,9 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Débora%20Reinita&fontColor=ff8ae2&color=0:1a0b2e,100:3d155f&fontSize=50&animation=fadeIn"/>
 
 ### 💜 Estudante de Engenharia da Computação
-
-*Ambiciosa, determinada e movida pela busca contínua por aprendizado.*
-
 </div>
 
 ---
