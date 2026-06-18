@@ -38,7 +38,7 @@ Tenho interesse em desenvolvimento de software, algoritmos, resolução de probl
 ---
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx...](https://i.pinimg.com/1200x/cd/6b/3c/cd6b3cd729261b90ed1f330faf814341.jpg)" width="250">
+  <img src="(https://i.pinimg.com/1200x/cd/6b/3c/cd6b3cd729261b90ed1f330faf814341.jpg)" width="250">
 </p>
 
 ## 📊 Estatísticas
