@@ -1,70 +1,72 @@
 <div align="center">
 
-# Débora Silva
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Débora%20Reinita&fontColor=ff8ae2&color=0:1a0b2e,100:3d155f&fontSize=50&animation=fadeIn"/>
 
-### Estudante de Engenharia da Computação
+### 💜 Estudante de Engenharia da Computação
 
-Construindo conhecimento, desenvolvendo soluções e evoluindo constantemente.
+*Ambiciosa, determinada e movida pela busca contínua por aprendizado.*
 
 </div>
 
-
 ---
-## Sobre Mim
+
+## 🌷 Sobre Mim
 
 Sou estudante de Engenharia da Computação, ambiciosa e movida pela busca contínua por aprendizado e crescimento.
 
 Tenho interesse em desenvolvimento de software, algoritmos, resolução de problemas e tecnologia. Atualmente, dedico meu tempo ao aprimoramento das minhas habilidades em programação por meio de estudos e projetos práticos.
 
 ---
+
+## ⚡ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,c,python,git,github,vscode"/>
+
+</div>
+
 ---
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,c,python,git,github,vscode" />
-</p>
-
----
-
-## Áreas de Interesse
+## 🎀 Áreas de Interesse
 
 ```txt
-• Desenvolvimento de Software
-• Algoritmos e Estruturas de Dados
-• Engenharia de Software
-• Banco de Dados
-• Resolução de Problemas
+✦ Desenvolvimento de Software
+✦ Algoritmos e Estruturas de Dados
+✦ Engenharia de Software
+✦ Banco de Dados
+✦ Resolução de Problemas
 ```
 
-
 ---
 
-## Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debiis-rs&show_icons=true&theme=rose_pine)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=debiis-rs&show_icons=true&theme=omni"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debiis-rs&layout=compact&theme=rose_pine)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debiis-rs&layout=compact&theme=omni"/>
+
 </div>
 
 ---
 
-## Objetivos
+## 🌱 Objetivos
 
-- Aprimorar minhas habilidades técnicas
-- Construir projetos relevantes
-- Evoluir como desenvolvedora
-- Transformar conhecimento em soluções reais
+```txt
+▰▰▰▰▰▰▰▰▱▱ Aprimorar habilidades técnicas
+▰▰▰▰▰▰▰▱▱▱ Construir projetos relevantes
+▰▰▰▰▰▰▱▱▱▱ Evoluir como desenvolvedora
+▰▰▰▰▰▱▱▱▱▱ Transformar conhecimento em soluções
+```
 
 ---
 
 <div align="center">
+
+💜 ✦ 💜 ✦ 💜
 
 "Grandes conquistas começam com pequenos passos diários."
-
-</div>
-"Learning today, building tomorrow."
 
 </div>
